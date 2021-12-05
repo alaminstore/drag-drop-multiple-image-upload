@@ -1,4 +1,2 @@
-<h3 align="center">
-Drag and drop multiple image file upload
-</h3>
+## <h3 align="center">Drag and drop multiple image file upload</h3>
 
